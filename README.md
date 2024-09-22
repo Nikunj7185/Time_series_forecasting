@@ -19,6 +19,9 @@ This project demonstrates various time series forecasting methods, including tra
 - **03_TSF_using_RNNs(LSTM).ipynb**  
   Implements Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) layers for forecasting time series data, focusing on capturing complex patterns over time.
 
+- **04_TSF_VAR.ipynb**
+  Demonstrates the use of Vector Auto-Regressor in forecastinf timeseries that might be dependent on each other. Also tells how to find if two time series even are dependent.
+
 - **decomposition.ipynb**  
   Decomposes time series data into its components (trend, seasonality, and residuals) using `statsmodels` to better understand its structure.
 
