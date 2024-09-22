@@ -22,6 +22,9 @@ This project demonstrates various time series forecasting methods, including tra
 - **04_TSF_VAR.ipynb**  
   Demonstrates the use of Vector Auto-Regressor in forecastinf timeseries that might be dependent on each other. Also tells how to find if two time series even are dependent.
 
+- **05_TSF_PROPHET.ipynb**  
+  Demonstrates how to use the Prophet, an open source library by Facebook, for Time Series Forecasting.
+
 - **decomposition.ipynb**  
   Decomposes time series data into its components (trend, seasonality, and residuals) using `statsmodels` to better understand its structure.
 
